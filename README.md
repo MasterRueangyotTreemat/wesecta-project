@@ -3,6 +3,8 @@
 - refactor and reuse code and change name but keep structure.
 - โครงสร้างเหมือนเดิมแค่เปลี่ยนชื่อให้สอดคล้องกับหน้า
 
+https://wesecta-37ae7.firebaseapp.com/
+
 การ Deploy เดี๋ยวเรา deploy ให้ หรือสร้าง gmail กลางมาไว้เลยก็ได้จะได้ deploy ด้วย gmail กลางได้เลย
 ส่วน domain name สามารถเปลี่ยนได้ ถ้าเราไปจด domain name ไว้แล้วเราก็เปลี่ยนเป็นชื่อตาม domain name นั้นได้เลย
 
