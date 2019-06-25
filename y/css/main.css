@@ -23,7 +23,7 @@
   6. wesecta-info 
   7. wesecta-how-to
   8. wesecta-contact
-  9 .wesecta-login
+  9 .wesecta-footer
   ------------------------------------- */
 /* ==========================================================================
    1. IMPORT GOOGLE FONTS
@@ -54,7 +54,7 @@
    2. GENERAL
    ========================================================================== */
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'rsubold','THSarabunNewBold','Poppins', sans-serif;
   color: #333;
   font-size: 14px;
   font-weight: 400;
@@ -83,7 +83,7 @@ a {
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'rsubold','THSarabunNewBold','Poppins', sans-serif;
   font-size: 40px;
   font-weight: 700;
   letter-spacing: 1px;
@@ -533,7 +533,7 @@ button:focus {
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
-  font-size: 20px;
+  font-size: 30px;
   color: #fff;
   padding: 0 22px;
   margin-top: 20px;
@@ -937,6 +937,16 @@ button:focus {
     margin: 25px 25px 0px 0px;
     text-transform: uppercase;
   }
+
+  #wesecta-contact .btn-common:hover {
+    border: 5px solid #733917;
+    color: #733917;
+    background: #fff;
+    transition: all .50s ease-in-out;
+    -moz-transition: all .50s ease-in-out;
+    -webkit-transition: all .50s ease-in-out;
+  }
+  
 
 #wesecta-contact .item-boxes {
     text-align: center;
